@@ -31,6 +31,8 @@ I am a passionate **web developer** building **modern, scalable, and interactive
 - Contributing to **open-source projects**  
 
 
+
+
 ## 🔭 Tech Stack & Tools
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; padding:15px; background:linear-gradient(to right, #0f2027, #203a43, #2c5364); border-radius:15px;">
@@ -76,9 +78,9 @@ I am a passionate **web developer** building **modern, scalable, and interactive
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
   </a>
 </div>
-## 🔭 Tech Stack & Tools
+
 <div align="center">
-...your icons...
+
 </div>
 
 <!-- ☕ ADD HERE -->
