@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/jeet-dev111"
+  <a href="buymeacoffee.com/jeetdev111"
      style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00fff0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
          alt="Buy Me A Coffee"/>
