@@ -17,9 +17,13 @@
        alt="Typing Animation"/>
 </p>
 
-
-
-
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jeet-dev111"
+     style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00fff0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+         alt="Buy Me A Coffee"/>
+  </a>
+</p>
 
 
 I am a passionate **web developer** building **modern, scalable, and interactive web applications**. I focus on **clean code, responsive design, and great user experience**.  
@@ -85,11 +89,6 @@ I am a passionate **web developer** building **modern, scalable, and interactive
 
 <!-- ☕ ADD HERE -->
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/jeet-dev111">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
 ## 💬 Connect with Me
 
