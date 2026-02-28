@@ -76,8 +76,21 @@ I am a passionate **web developer** building **modern, scalable, and interactive
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
   </a>
 </div>
+## 🔭 Tech Stack & Tools
+<div align="center">
+...your icons...
+</div>
+
+<!-- ☕ ADD HERE -->
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jeet-dev111">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ## 💬 Connect with Me
+
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; padding:10px;">
   <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer" title="LinkedIn">
