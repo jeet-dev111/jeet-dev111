@@ -1,140 +1,31 @@
-<!-- ================= HERO SECTION ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I+am+Jeet+Chetry;Web+Developer;Building+Cool+Stuffs+%F0%9F%A5%B6&stroke=00F7FF&strokeWidth=1" />
+</p>
 
 <p align="center">
-  <img 
-    src="https://media.istockphoto.com/id/2171116816/vector/software-engineer-writing-code-on-computer-coder-programming-database-programmer-typing.jpg?s=612x612&w=0&k=20&c=Me38Ik6uodfiNku4rlULWO0FGiutnqPSvTn2KdSHed4=" 
-    alt="Coding Illustration" 
-    width="180"
-    style="border-radius:18px; border:2px solid #00fff0; box-shadow:0 0 25px #00fff0;"
-  />
-</p>
-<p align="center" style="margin-top: 30px;">
-  <a href="https://buymeacoffee.com/jeetdev111" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-1e1e2e?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=ff007f" 
-      alt="Buy Me a Coffee" 
-      style="
-        border-radius: 14px;
-        padding: 10px 20px;
-        background: linear-gradient(90deg, #00fff0 0%, #ff007f 100%);
-        color: #000000;
-        font-family: 'Inter', sans-serif;
-        font-weight: 700;
-        font-size: 16px;
-        letter-spacing: 0.8px;
-        box-shadow: 0 0 20px rgba(0,255,240,0.6), 0 0 40px rgba(255,0,127,0.4);
-        transition: all 0.3s ease;
-      "
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 30px rgba(0,255,240,0.9), 0 0 60px rgba(255,0,127,0.7)';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px rgba(0,255,240,0.6), 0 0 40px rgba(255,0,127,0.4)';"
-    />
+  <a href="https://buymeacoffee.com/jeetdev111">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
+#  About Me:
+I am a passionate Web Developer building modern, scalable, and interactive web applications.<br>I focus on clean code, responsive design, and exceptional user experience.<br><br>💡 Driven By<br>🎨 Crafting pixel-perfect UI/UX<br>🧼 Writing clean, maintainable code<br>🚀 Building fast & responsive interfaces<br>🧠 Exploring new technologies<br>🌍 Contributing to open-source projects
 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&duration=4000&color=00FFF0&center=true&vCenter=true&width=750&height=70&lines=Hey+👋,+I'm+Jeet+Chetry;Frontend+%26+UI/UX+Designer;Front-end+Developer+%26+Cloud+Architect;React+%7C+Next.js+%7C+HTML+%26+CSS+%7C+Tailwind+%7C+shadcn/ui+%7C+AWS"
-    alt="Typing Animation"
-  />
+  <img src="https://github-readme-stats.shion.dev/api?username=jeet-dev111&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbkk0QPMoi_7ZFwv-oPKWgIC9adWDtsAAUVw&s" 
-    alt="Fun Developer Meme" 
-    width="250"
-    style="border-radius:15px; box-shadow:0 0 20px #00fff0;"
-  />
+  <img src="https://streak-stats.demolab.com/?user=jeet-dev111&theme=dark&hide_border=false" />
 </p>
-
-
-## 👨‍💻 About Me
-
-I am a passionate **Web Developer** building **modern, scalable, and interactive web applications**.  
-I focus on **clean code, responsive design, and exceptional user experience**.
-
-### 💡 Driven By
-
-- 🎨 Crafting **pixel-perfect UI/UX**
-- 🧼 Writing **clean, maintainable code**
-- 🚀 Building **fast & responsive interfaces**
-- 🧠 Exploring **new technologies**
-- 🌍 Contributing to **open-source projects**
-
-
-## 🔭 Tech Stack & Tools
-
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; padding:25px; background:linear-gradient(135deg, #0f2027, #203a43, #2c5364); border-radius:20px;">
-
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
-</a>
-
-<a href="https://www.prisma.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="60"/>
-</a>
-
-<a href="https://vercel.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="60"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60"/>
-</a>
-
-<a href="https://www.netlify.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="60"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/>
-</a>
-
-</div>
-
-
-## 💬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50"/>
-  </a>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jeet-dev111&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
 
-<p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
