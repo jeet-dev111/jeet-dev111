@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
-#  About Me:
+About Me:</br>
 I am a passionate Web Developer building modern, scalable, and interactive web applications.<br>I focus on clean code, responsive design, and exceptional user experience.<br><br>💡 Driven By<br>🎨 Crafting pixel-perfect UI/UX<br>🧼 Writing clean, maintainable code<br>🚀 Building fast & responsive interfaces<br>🧠 Exploring new technologies<br>🌍 Contributing to open-source projects
 
 
