@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/jeetdev111">
+  <a href="https://buymeacoffee.com/jeetchetryyy">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
@@ -29,12 +29,12 @@ I am a passionate Web Developer building modern, scalable, and interactive web a
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jeet-dev111&theme=radical&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jeet-dev111&theme=radical&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=jeetchetryyy&theme=radical&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jeetchetryyy&theme=radical&hide_border=true&layout=compact" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jeet-dev111&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=jeetchetryyy&theme=radical&hide_border=true" />
 </p>
 
 ---
